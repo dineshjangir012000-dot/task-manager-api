@@ -1,12 +1,12 @@
 # Task Manager API
 
-## 📌 Description
+##  Description
 
 This is a RESTful Task Management API built using Node.js, Express, and MongoDB. It allows users to create, update, and delete tasks with proper validation and error handling.
 
----
+--------
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 * Node.js
 * Express.js
@@ -15,7 +15,7 @@ This is a RESTful Task Management API built using Node.js, Express, and MongoDB.
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. Clone the repository
 
@@ -31,7 +31,7 @@ This is a RESTful Task Management API built using Node.js, Express, and MongoDB.
 
 ---
 
-## 🔗 API Endpoints
+## API Endpoints
 
 * POST /api/tasks → Create Task
 * GET /api/tasks → Get All Tasks
@@ -40,7 +40,7 @@ This is a RESTful Task Management API built using Node.js, Express, and MongoDB.
 
 ---
 
-## ✅ Features
+## Features
 
 * CRUD operations
 * Input validation
@@ -49,6 +49,6 @@ This is a RESTful Task Management API built using Node.js, Express, and MongoDB.
 
 ---
 
-## 🧠 Author
+## Author
 
 Dinesh
